@@ -1,4 +1,4 @@
-# 
+# Store your Bitcoin securely with Electrum Bitcoin Wallet: A lightweight, open-source wallet with full control over your private keys.
 
 
 
